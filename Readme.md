@@ -21,5 +21,5 @@
 
 Feito com ❤️ por Anne Karoline 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anne Karoline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devannekarolinefc/)](https://www.linkedin.com/in/devannekarolinefc/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Anne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devannekarolinefc/)](https://www.linkedin.com/in/devannekarolinefc/) 
 [![Gmail Badge](https://img.shields.io/badge/-annekarolinefc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annekarolinefc@gmail.com)](mailto:annekarolinefc@gmail.com)
